@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PhoneBookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-21T19:21:43" hostname="LAPTOP-K8PDIV7K" time="5.259">
+  <properties/>
+  <testcase name="start" classname="PhoneBookTest" time="5.259"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Start searching (linear search)...
+Found 500 / 500 entries. Time taken: 00 min. 00 sec. 005 ms.
+
+Starting searching (bubble sort + jump search)...
+Found 500 / 500 entries. Time taken: 00 min. 01 sec. 909 ms.
+Sorting time: 00 min. 01 sec. 751 ms.
+Searching time: 00 min. 00 sec. 158 ms.
+Starting searching (quick sort + binary search)...
+Found 500 / 500 entries. Time taken: 00 min. 02 sec. 113 ms.
+Sorting time: 00 min. 02 sec. 110 ms.
+Searching time: 00 min. 00 sec. 003 ms.
+Start searching (hash table)...
+Found 500 / 500 entries. Time taken: 00 min. 00 sec. 967 ms.
+Creating time: 00 min. 00 sec. 962 ms.
+Searching time: 00 min. 00 sec. 001 ms.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
